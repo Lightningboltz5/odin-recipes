@@ -36,3 +36,4 @@ head, body, p, h1-6, ul, ol, a, href, src, alt, and such.
 
 *And finally i'm going to make a simple recipe page by putting all of 
 this knowledge to the test.
+
